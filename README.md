@@ -15,9 +15,13 @@ Run [mvn clean install] to install and run all the test cases.
 
 I used Jacoco plugin for Coverage Analysis and Reporting.After running [mvn clean install] reports directory(on this project) will be created under target/my-reports. Click index file and open it with a browser and inspect generated reports. For code quality, Sonarqube shall be used.
 
-Sample:
-
-Below is a class diagram for the main entities of the system
+Sample report:
 
 <img src="https://github.com/Bontsokwane/shop-solution/blob/master/docs/code_coverage.PNG" title="Reports diagram"><br/>
+
+## Documentation
+
+Api documentation was done using swagger as shown below. run the application then go to (http://localhost:8787/swagger-ui.html#/) to view the api documentation.
+
+
 
