@@ -17,5 +17,5 @@ Sample:
 
 Below is a class diagram for the main entities of the system
 
-<img src="https://github.com/Bontsokwane/shop-solution/tree/master/docs/code_coverage.png" title="Reports diagram"><br/>
+<img src="https://github.com/Bontsokwane/shop-solution/blob/master/docs/code_coverage.PNG" title="Reports diagram"><br/>
 
