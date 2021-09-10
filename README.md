@@ -25,4 +25,8 @@ Api documentation was done using swagger as shown below. run the application the
 
 <img src="https://github.com/Bontsokwane/shop-solution/blob/master/docs/swagger_ui.PNG" title="Swagger diagram"><br/>
 
+## UML DIAGRAM
+
+<img src="https://github.com/Bontsokwane/shop-solution/blob/master/docs/uml_diagram.PNG" title="diagram"><br/>
+
 
