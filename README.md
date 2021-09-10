@@ -1,5 +1,7 @@
 # shop-solution
 
+Retail Store Discounts Application - solution.
+
 ## Pre-requisite
 This application runs on the below environmen:
 
