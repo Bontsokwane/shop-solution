@@ -23,5 +23,6 @@ Sample report:
 
 Api documentation was done using swagger as shown below. run the application then go to (http://localhost:8787/swagger-ui.html#/) to view the api documentation.
 
+<img src="https://github.com/Bontsokwane/shop-solution/blob/master/docs/swagger_ui.PNG" title="Swagger diagram"><br/>
 
 
