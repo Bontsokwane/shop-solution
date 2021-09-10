@@ -9,9 +9,11 @@ This application runs on the below environmen:
 
 ## Run all test cases
 
+JUnit and Mockito was used to make test cases.
+
 Run [mvn clean install] to install and run all the test cases.
 
-I used Jacoco plugin for Coverage Analysis and Reporting.After running [mvn clean install] reports directory(on this project) will be created under target/my-reports. Click index file and open it with a browser and inspect generated reports.
+I used Jacoco plugin for Coverage Analysis and Reporting.After running [mvn clean install] reports directory(on this project) will be created under target/my-reports. Click index file and open it with a browser and inspect generated reports. For code quality, Sonarqube shall be used.
 
 Sample:
 
